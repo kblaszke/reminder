@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Dotlenianie",
+    "interval": 4,
+    "message": "Otwórz Okno!"
+  },
+  {
+    "name": "Joga",
+    "interval": 6,
+    "message": "Porozciągaj się!"
+  }
+]
